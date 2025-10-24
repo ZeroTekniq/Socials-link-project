@@ -77,7 +77,7 @@ header p {
     gap: 1.5rem;
 }
 
-.description {
+p {
     text-align: center;
     font-size: var(--fs-preset-2);
     font-weight: var(--fw-regular);
