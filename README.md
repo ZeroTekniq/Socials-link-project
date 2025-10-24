@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/ZeroTekniq/Socials-link-project)
-- Live Site URL: (https://zerotekniq.github.io/Socials-link-project/)
+- Live Site URL: (https://zerotekniq.github.io/Socials-link-project)
 
 ## My process
 
