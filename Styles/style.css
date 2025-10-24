@@ -53,7 +53,6 @@ img {
     border-radius: 62.4375rem;
     width: 5.5rem;
     height: 5.5rem;
-    gap: 1.5rem;
 }
 
 h2 {
@@ -118,10 +117,12 @@ li {
     background: var(--grey-700);
     border: none;
     text-decoration: none;
+    transition: all 0.4s ease-in-out;
 }
 .links a:hover {
     color: var(--grey-900);
     background-color: var(--green);
+    transform: scale(1.03);
 }
 
 .attribution {
